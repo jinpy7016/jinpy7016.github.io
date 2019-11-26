@@ -83,6 +83,11 @@ p.lead {
   color: #BD5D38;
 }
 
+.icon-skill {
+  width: 3rem;
+  height: 3rem;
+}
+
 #sideNav .navbar-nav .nav-item .nav-link {
   font-weight: 800;
   letter-spacing: 0.05rem;
